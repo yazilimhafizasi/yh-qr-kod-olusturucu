@@ -6,4 +6,4 @@ QR Kodunu oluştur, indir ve paylaş!
 
 # Ekran Görüntüsü
 
-![](assets/preview.jpg)
+![](preview.jpg)
