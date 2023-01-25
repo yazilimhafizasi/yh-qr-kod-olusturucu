@@ -1,2 +1,9 @@
-# yh-qr-kod-olusturucu
-Yazılım Hafızası QR Kod Oluşturucu
+# **QR Kod Oluşturucu**
+
+QR Kodunu oluştur, indir ve paylaş!
+
+## [Canlı](https://codepen.io/thendrra/pen/RwBMqYG)
+
+# Ekran Görüntüsü
+
+![]
